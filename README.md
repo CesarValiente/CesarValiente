@@ -27,10 +27,11 @@ If you want to read and learn how we do Android, just go to our very own [Micros
     - 👷‍♂️: [@CesarValiente](https://www.linkedin.com/in/cesarvaliente/). Please, if you want to connect with me, send me a personal message. I don't accept invites with the default _let's connect_ message.
 - 📖 How to read me:
     - 📗 You can go to my [Medium publication profile](https://medium.com/@CesarValiente) and see all the articles I've written along the years.
-    - 📘 Also, in our [Surface Duo blog site](https://medium.com/@CesarValiente), you will find several articles written by me.
+    - 📘 Also, in our [Surface Duo blog site](https://devblogs.microsoft.com/surface-duo/), you will find several articles written by me.
 - 📺 How to see/listen me: 
     - 🎤 I usually speak at conferences. Along the years, I've spoken on many of them. Do you want me that I speak at your event? Just sent me a direct-message on Twitter ^^.
     - 🎙️ You can watch me talking about foldables and dual-scren development in our [Twitch channel](https://www.twitch.tv/surfaceduodev). We do streamings every week!
+    You also can watch our previous recordings offline in our [YouTube channel](https://www.youtube.com/channel/UClGu9QLtPNz8OdddBfhZXPA)
 
 Have a wonderful day!🌟 and don't hesitate to say hi! 👋
 

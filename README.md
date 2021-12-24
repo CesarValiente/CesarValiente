@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Cesar, nice to meet you! 👋 😊
 
-I'm a software engineer 👨‍💻 who currently works [@Microsoft](https://www.microsoft.com/) on the **[Surface Duo Developer Experience team](https://docs.microsoft.com/surface-duo/)** 📱📱, where I work on different areas, with the goal to help developers worldwide to build dual-screen and foldable experiences.
+I'm a software engineer 👨‍💻 currently working [@Microsoft](https://www.microsoft.com/) on the **[Surface Duo Developer Experience team](https://docs.microsoft.com/surface-duo/)** 📱📱, where I work on different areas, with the goal to help developers worldwide to build dual-screen and foldable experiences.
 
 As my 🌜 job, I lead the **Android@Microsoft** community where we run multiple activities that that help all Android teams in the company, to connect and share knowledge.
 If you want to read and learn how we do Android, just go to our very own [Microsoft Mobile Engineering](https://medium.com/microsoft-mobile-engineering) publication.
@@ -29,9 +29,9 @@ If you want to read and learn how we do Android, just go to our very own [Micros
     - 📗 You can go to my [Medium publication profile](https://medium.com/@CesarValiente) and see all the articles I've written along the years.
     - 📘 Also, in our [Surface Duo blog site](https://medium.com/@CesarValiente), you will find several articles written by me.
 - 📺 How to see/listen me: 
-    - 🎤 I usually speak at conferences. Along the years, I've spoken on many of them. Do you want me that I speak at your event? Just sent me a dm on Twitter ^^.
-    - 🎙️ You can watch me streaming online many times at our [Twitch channel](https://www.twitch.tv/surfaceduodev). We do streamings every week!
+    - 🎤 I usually speak at conferences. Along the years, I've spoken on many of them. Do you want me that I speak at your event? Just sent me a direct-message on Twitter ^^.
+    - 🎙️ You can watch me talking about foldables and dual-scren development in our [Twitch channel](https://www.twitch.tv/surfaceduodev). We do streamings every week!
 
-Have a wonderful day!🌟 and don't hesitate on say hi! 👋
+Have a wonderful day!🌟 and don't hesitate to say hi! 👋
 
 
